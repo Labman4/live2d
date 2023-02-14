@@ -1,1 +1,1 @@
-# live2d
+# live2d collection
