@@ -1,0 +1,30 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "l2d10024.dmm.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/joy_loop.motion3.json"
+        },
+        {
+          "File": "motions/loop.motion3.json"
+        },
+        {
+          "File": "motions/anger_loop.motion3.json"
+        },
+        {
+          "File": "motions/bashful_loop.motion3.json"
+        },
+        {
+          "File": "motions/serious_loop.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}
