@@ -7,7 +7,7 @@
     ],
     "Physics": null,
     "Motions": {
-      "": [
+      "Idle": [
         {
           "File": "motions/serious_loop.motion3.json"
         },
