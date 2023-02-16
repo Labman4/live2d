@@ -7,7 +7,7 @@
     ],
     "Physics": null,
     "Motions": {
-      "": [
+      "Idle": [
         {
           "File": "motions/anger.motion3.json"
         },
@@ -83,5 +83,15 @@
       ]
     }
   },
-  "Groups": []
+  "Groups": [],
+  "HitAreas": [
+    {
+      "Id": "HitAreaHead",
+      "Name": ""
+    },
+    {
+      "Id": "HitAreaBody",
+      "Name": ""
+    }
+  ]
 }
